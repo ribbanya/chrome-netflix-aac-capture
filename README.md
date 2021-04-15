@@ -16,6 +16,7 @@ Downloads AAC files directly from Netflix.
 1. Click on "Netflix AAC Capture" in the list of tabs at the top.
 1. Seek around in the show or watch it until links show up.
 1. Click to download, or right click and "save as." (Note: due to Chrome security policies, you'll have to name the file yourself.)
+1. The files are [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding), so use the `.aac` extension.
 
 ## FAQ
 1. Why does this need to be in the DevTools menu?
