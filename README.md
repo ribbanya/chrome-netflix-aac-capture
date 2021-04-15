@@ -7,7 +7,7 @@ Downloads AAC files directly from Netflix.
 1. Click the … at the top right of Chrome.
 1. Go to "More tools" > "Extensions."
 1. Enable Developer Mode using the switch in the top right.
-1. Click "Load unpacked."
+1. Click "Load unpacked" in the top left.
 1. Select the folder you extracted the zip to.
 
 ## Usage
