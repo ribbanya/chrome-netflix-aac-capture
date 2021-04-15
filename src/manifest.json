@@ -1,0 +1,18 @@
+{
+  "name": "Chrome AAC Ripper",
+  "devtools_page":  "pages/devtools/index.html",
+  "content_scripts": [
+    {
+      "js": [
+        "content/netflix.ts"
+      ],
+      "matches": [
+        "*://*.netflix.com/*"
+      ]
+    }
+  ],
+  "permissions": [
+    "webRequest",
+    "*://*.netflix.com/*"
+  ]
+}
