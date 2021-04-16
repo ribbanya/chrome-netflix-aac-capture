@@ -11,8 +11,8 @@ Downloads AAC files directly from Netflix.
 1. Select the folder you extracted the zip to.
 
 ## Usage
-1. Open Netflix.
-1. Open DevTools with `F12` or `Ctrl-Shift-I`.
+1. Open Netflix. If it was already open, refresh it.
+1. With Netflix focused, open DevTools with `F12` or `Ctrl-Shift-I`.
 1. Click on "Netflix AAC Capture" in the list of tabs at the top (you may need to click ≫ on the right).
 1. Seek around in the show or watch it until links show up.
 1. Click to download, or right click and "save as." (Note: due to Chrome security policies, you'll have to name the file yourself.)
