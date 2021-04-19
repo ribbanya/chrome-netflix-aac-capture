@@ -8,7 +8,7 @@ Downloads AAC audio files directly from Netflix.
 1. Go to "More tools" > "Extensions."
 1. Enable Developer Mode using the switch in the top right.
 1. Click "Load unpacked" in the top left.
-1. Select the folder you extracted the zip to.
+1. Select the folder you extracted the zip to, which contains `manifest.json`.
 1. Close or refresh Netflix.
 
 ## Usage
