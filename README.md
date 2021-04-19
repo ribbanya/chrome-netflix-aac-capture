@@ -1,5 +1,5 @@
 # Netflix AAC Capture Chrome Extension
-Downloads AAC files directly from Netflix.
+Downloads AAC audio files directly from Netflix.
 
 ## Installation
 1. Get the [latest release](https://github.com/ribbanya/chrome-netflix-aac-capture/releases).
